@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">wanmei</string>
+    <string name="app_name">家园NPC</string>
+    <string name="need_choose_location">请选择NPC所在的位置</string>
+    <string name="toast_error">哦哟，好像出错了</string>
+    <string name="close">关闭</string>
+    <string name="choose_npc">请选择NPC信息</string>
+    <string name="static_npc_known">已知的固定NPC</string>
+    <string name="choose_static_npc_known">请选择已知的固定NPC名字</string>
+    <string name="move_npc_known">已知的移动NPC</string>
+    <string name="choose_move_npc_known">请选择已知的移动NPC名字</string>
+    <string name="static_npc">固定NPC</string>
+    <string name="move_npc">移动NPC</string>
 </resources>
